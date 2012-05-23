@@ -1,6 +1,6 @@
-OpenFoamSimulationScripts
+HiPC_Flavor_OpenFoamScripts
 =========================
 
-Storage for scripts I use to run OpenFoam simulations
+Storage for scripts I use to run OpenFoam simulations for a paper submission I need to complete by 5/30/2012.
 
-The simulations we perform (impact.asu.edu) are meant to verify models of thermal flow within datacenters. While constructing and validating models of physical phenomena is important in it's own right, our major goal is to improve the energy efficiency of scheduling algorithms used in data centers.
+This is a fork of my other project OpenFoamSimulationScripts. File settings such as ControlDict and SetFieldsDict, as well as the chassisList need to be changed between these experiments, thus the fork.
